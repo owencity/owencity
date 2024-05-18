@@ -1,3 +1,16 @@
-### Hi there 👋
+#### 🗂️ Projects 
+- [KDT](https://github.com/bamyanggang-project/bamyanggang-BE) - WebRtc를 활용한 웹 마피아 게임 (2024)
+- [KDT](https://github.com/followpaldo/followpaldo_project) -  날씨 API를 활용한 캠핑장,관광지 확인 (2024)
 
-<a href="https://owencity.tistory.com" target="_blank"><img src="https://img.shields.io/badge/#000000?style=뱃지모양&logo=<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>&logoColor=#000000"/></a>
+
+
+#### 🔨 Skills
+<a target="_blank"><img src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
+
+<a target="_blank"><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+
+
+
