@@ -21,4 +21,4 @@
 
 
 ![owencity's github stats](https://github-readme-stats.vercel.app/api?username=owencity&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owencity)](https://github.com/owencity/github-readme-stats)
+
