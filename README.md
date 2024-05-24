@@ -3,7 +3,7 @@
 - [KDT](https://github.com/followpaldo/followpaldo_project) -  날씨 API를 활용한 캠핑장,관광지 확인 (2024.03 ~ 2024.04)
 
 #### BLOG
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=owencity)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=owencity)](https://owencity.tistory.com/)
 
 
 #### 🔨 Skills
