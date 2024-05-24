@@ -4,6 +4,10 @@
 
 #### BLOG
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=owencity)](https://owencity.tistory.com/)
+<a href="https://www.notion.so/k-study-6182ad18c2924f8fbaa38809fc3fdc99"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+
+
+
 
 
 #### 🔨 Skills
