@@ -2,7 +2,7 @@
 - [팀 프로젝트](https://github.com/bamyanggang-project/bamyanggang-BE) - WebRtc를 활용한 웹 마피아 게임 (2024.04 ~ 2024.05)
 - [팀 프로젝트](https://github.com/followpaldo/followpaldo_project) -  날씨 API를 활용한 캠핑장,관광지 확인 (2024.03 ~ 2024.04)
 - [개인프로젝트](https://github.com/owencity/BoardMVC2) - JSP를 활용한 게시판 및 회원가입 (2024.05 ~ 진행중)
-
+- [개인프로젝트](https://github.com/owencity/LibraryJPA) - JPA 활용한 도서관 
 
 #### BLOG
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=owencity)](https://owencity.tistory.com/)
