@@ -1,6 +1,7 @@
 #### 🗂️ Projects 
-- [팀 프로젝트](https://github.com/bamyanggang-project/bamyanggang-BE) - WebRtc를 활용한 웹 마피아 게임 (2024.04 ~ 2024.05)
-- [팀 프로젝트](https://github.com/followpaldo/followpaldo_project) -  날씨 API를 활용한 캠핑장,관광지 확인 (2024.03 ~ 2024.04)
+- [팀 프로젝트 밤양갱 -FE](https://github.com/bamyanggang-project/bamyanggang-FE) - WebRtc를 활용한 웹 마피아 게임 (2024.04 ~ 2024.05)
+- [팀 프로젝트 밤양갱 -BE](https://github.com/bamyanggang-project/bamyanggang-BE) - WebRtc를 활용한 웹 마피아 게임 (2024.04 ~ 2024.05)
+- [팀 프로젝트 팔로팔도 ](https://github.com/followpaldo/followpaldo_project) -  날씨 API를 활용한 캠핑장,관광지 확인 (2024.03 ~ 2024.04)
 - [개인 프로젝트](https://github.com/owencity/k-commerc) - JPA, 스프링부트 활용한 이커머스 개인 프로젝트(2024-08 ~ )
 
 #### BLOG
