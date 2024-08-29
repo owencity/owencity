@@ -4,7 +4,6 @@
 - [팀 프로젝트 팔로팔도 ](https://github.com/followpaldo/followpaldo_project) -  날씨 API를 활용한 캠핑장,관광지 확인 (2024.03 ~ 2024.04)
 - [Study 01](https://github.com/owencity/LibraryJPA) - 도서관 CRUD 
 - [Study 02](https://github.com/owencity/JPAstudy) - 스레드 스타일 SNS 
-- [개인 프로젝트](https://github.com/owencity/k-commerc) - 이커머스 개인 프로젝트(2024-08 ~ 진행중)
 
 #### BLOG
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=owencity)](https://owencity.tistory.com/)
