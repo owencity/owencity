@@ -14,7 +14,7 @@
 #### 🔨 Skills
 <a target="_blank"><img src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
-// <a target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"></a>
+<!-- <a target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"></a> -->
 <a target="_blank"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a>
