@@ -2,7 +2,7 @@
 - [팀 프로젝트 밤양갱 -BE](https://github.com/bamyanggang-project/bamyanggang-BE) - WebRtc를 활용한 웹 마피아 게임 
 - [팀 프로젝트 팔로팔도 ](https://github.com/followpaldo/followpaldo_project) -  날씨 API를 활용한 캠핑장,관광지 확인 
 - [팀 프로젝트 캠모아- BE](https://github.com/cammoaStay/cammoa-BE) - 사용자 1:1채팅구현(웹소켓), 예약 및 결제 기능 캠핑장웹플랫폼 (진행중)
-- [개인 프로젝트 게시판](https://github.com/owencity/Board) - regacy 전자정부프레임워크 활용 개인 게시판 프로젝트 (진행중)
+
 #### BLOG
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=owencity)](https://owencity.tistory.com/)
 <a href="https://www.notion.so/k-study-6182ad18c2924f8fbaa38809fc3fdc99"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
