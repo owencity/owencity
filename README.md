@@ -1,7 +1,7 @@
 #### 🗂️ Projects 
 - [팀 프로젝트 밤양갱 -BE](https://github.com/bamyanggang-project/bamyanggang-BE) - WebRtc를 활용한 웹 마피아 게임 
 - [팀 프로젝트 팔로팔도 ](https://github.com/followpaldo/followpaldo_project) -  날씨 API를 활용한 캠핑장,관광지 확인 
-- [팀 프로젝트 캠모아- BE](https://github.com/cammoaStay/cammoa-BE) - 사용자 1:1채팅구현(웹소켓), 예약 및 결제 기능 캠핑장웹플랫폼 (진행중)
+
 
 #### BLOG
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=owencity)](https://owencity.tistory.com/)
