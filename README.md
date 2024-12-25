@@ -1,14 +1,10 @@
 #### 🗂️ Projects 
 - [팀 프로젝트 밤양갱 -BE](https://github.com/bamyanggang-project/bamyanggang-BE) - WebRtc를 활용한 웹 마피아 게임 
-- [팀 프로젝트 팔로팔도 ](https://github.com/followpaldo/followpaldo_project) -  날씨 API를 활용한 캠핑장,관광지 확인 
-
+- [개인 프로젝트 pappy!](https://github.com/owencity/pappy-backend) - 진행중 , 패션플랫폼
 
 #### BLOG
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=owencity)](https://owencity.tistory.com/)
 <a href="https://www.notion.so/k-study-6182ad18c2924f8fbaa38809fc3fdc99"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
-
-
-
 
 
 #### 🔨 Skills
