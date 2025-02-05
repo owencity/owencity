@@ -33,7 +33,7 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
   </a>
-  <p>java  Spring </p>
+  <p> java  Spring </p>
   <br>
 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
