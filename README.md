@@ -1,4 +1,5 @@
 #### 🗂️ Projects 
+- bootcamp 2025
 - [팀 프로젝트 밤양갱 -BE](https://github.com/bamyanggang-project/bamyanggang-BE) - WebRtc를 활용한 웹 마피아 게임 
 - [개인 프로젝트 pappy!](https://github.com/owencity/pappy-backend) - 캠페인 참여 및 후기 게시판 웹
 <!-- #### BLOG
@@ -17,7 +18,6 @@
 <p align="left">
   <a target="_blank"><img src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
   <a target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/></a>
   <a target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a>
   <a target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   <a target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
@@ -25,7 +25,6 @@
   <a target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
   <a target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
   <a target="_blank"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
 </p>
 
 <!-- 
