@@ -75,8 +75,8 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=owencity&show_icons=true&locale=en&layout=compact" alt="owencity" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=owencity&show_icons=true&locale=en&layout=compact" alt="owencity" /></p>
 
-![owencity's github stats](https://github-readme-stats.vercel.app/api?username=owencity&show_icons=true)
+![owencity's github stats](https://github-readme-stats.vercel.app/api?username=owencity&show_icons=true) -->
 
 <!-- <a target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"></a> -->
